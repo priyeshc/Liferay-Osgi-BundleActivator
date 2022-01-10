@@ -1,0 +1,5 @@
+Bundle-Name: bundle-activator
+Bundle-SymbolicName: com.liferay.tasks.activator
+Bundle-Version: 1.0.0
+Bundle-Activator: com.liferay.tasks.activator.BundleActivatorDemo
+Export-Package: com.liferay.tasks.activator.service
